@@ -33,13 +33,10 @@ Contains the main R scripts used in the project.
 - `04_descriptive_summary_nondce.R`  
   Extracts and summarizes the non-DCE survey responses, including attitudes, demographics, and cafeteria-related variables.
 
-### `images/`
-Contains the image assets used in the experiment.
-
-- `food/`  
+### `food/` 
   Meal images used in the DCE alternatives
 
-- `labels/`  
+### `food/`  
   NutriScore icons, High Protein label, and blank placeholder images
 
 
